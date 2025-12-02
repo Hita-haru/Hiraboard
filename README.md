@@ -12,4 +12,4 @@ Backward
 ![PCB Backward 3D screenshot](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/PCB_backward_3D.png "PCB Backward 3D screenshot")  
 ## Estimates  
 ![JLCPCB Estimate](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/JLCPCB_estimate.png "JLCPCB Estimate")
-![Parts Estimate](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/Parts-estimate.png "Parts Estimate")
+![Parts Estimate](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/Parts_estimate.png "Parts Estimate")
