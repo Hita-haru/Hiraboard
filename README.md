@@ -16,3 +16,6 @@ Backward
 ![JLCPCB Estimate](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/JLCPCB_estimate.png "JLCPCB Estimate")
 ![Parts Estimate](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/Parts_estimate.png "Parts Estimate")  
 ![Shipping options](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/shipping-options.png "Shipping options")  
+
+## Finished product
+![A photo of the finished product](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/product.png "A photo of the finished product)
