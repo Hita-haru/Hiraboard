@@ -18,4 +18,4 @@ Backward
 ![Shipping options](https://github.com/Hita-haru/Hiraboard/blob/main/screenshots/shipping-options.png "Shipping options")  
 
 ## Finished product
-![A photo of the finished product](./screenshots/product.png "A photo of the finished product)
+![A photo of the finished product](./screenshots/product.png "A photo of the finished product")
